@@ -1,0 +1,552 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+nav {
+    padding-top: 16px;
+}
+
+
+.list {
+    display: flex;
+    justify-content: end;
+    gap: 39px;
+    margin-top: 15px;
+}
+
+
+.list_iteam {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.btn1 {
+    padding: 5px 40px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 110%;
+    /* identical to box height, or 18px */
+    border-color: rgb(217, 1, 255);
+    background: transparent;
+
+    color: #FFFFFF;
+}
+
+
+.butter {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+
+.hary {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    margin-top: 100px;
+    color: #FFFFFF;
+    margin-bottom: 77px;
+}
+
+
+.polo {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 21px */
+
+
+    color: #FFFFFF;
+}
+
+
+.popular {
+    margin-bottom: 33px;
+}
+
+
+.btn2 {
+    padding: 8px 40px;
+    background: #386DF4;
+    border: 1px solid #386DF4;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 110%;
+    /* identical to box height, or 20px */
+    border: none;
+    margin-bottom: 80px;
+    color: #FFFFFF;
+}
+
+
+.images {
+    margin-bottom: 50px;
+}
+
+
+.imlogo {
+    margin-top: 100px;
+}
+
+
+.mi {
+    margin-top: 120px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    color: #1B1C1F;
+}
+
+
+.como {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    color: #282828;
+    margin-top: 270px;
+    opacity: 0.7;
+    margin-bottom: 50px;
+}
+
+
+.carb {
+    background: #FFFFFF;
+    /* 1 */
+    margin-bottom: 120px;
+    box-shadow: 1px 6px 16px rgba(8, 10, 55, 0.08);
+    border-radius: 10px;
+    width: 370px;
+    height: 414px;
+}
+
+
+.dom {
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+
+.montaj {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 24px */
+
+    margin-bottom: 20px;
+    color: #333333;
+}
+
+
+.podezd {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #282828;
+
+    opacity: 0.7;
+}
+
+
+.domashniki {
+    margin-left: 45px;
+}
+
+
+.koko {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    /* or 53px */
+    padding-top: 70px;
+    padding-bottom: 50px;
+    color: #1B1C1F;
+}
+
+
+.strong {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+
+
+    color: #282828;
+    margin-bottom: 40px;
+    opacity: 0.7;
+}
+
+
+
+.div {
+    margin-bottom: 150px;
+}
+
+
+.Create {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    /* identical to box height, or 53px */
+
+
+    color: #FFFFFF;
+}
+
+
+.Create {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    /* identical to box height, or 53px */
+
+    margin-top: 120px;
+    margin-bottom: 50px;
+    color: #FFFFFF;
+}
+
+
+
+.jalod {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    /* or 53px */
+    margin-top: 120px;
+    margin-bottom: 50px;
+    color: #1B1C1F;
+}
+
+
+.carbd {
+    background: #FFFFFF;
+    /* 1 */
+    width: 386px;
+    height: 480px;
+    box-shadow: 1px 6px 16px rgba(51, 51, 51, 0.08);
+    border-radius: 10px;
+
+}
+
+
+.imgcarb {
+    margin-left: 96px;
+    margin-bottom: 11px;
+    margin-bottom: 30px;
+}
+
+
+.btn4 {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 150%;
+    /* identical to box height, or 18px */
+    padding: 1px 10px;
+    color: #FFFFFF;
+    background: #384E85;
+    border-radius: 10px;
+    border: none;
+}
+
+
+.faol {
+    margin-left: 27px;
+}
+
+
+.ip {
+    font-weight: 600;
+    margin-top: 23px;
+    font-size: 16px;
+    line-height: 140%;
+    /* or 22px */
+
+
+    color: #333333;
+}
+
+
+.srr {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+
+    color: #282828;
+    margin-bottom: 5px;
+    opacity: 0.7;
+}
+
+
+.pp {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 110%;
+    /* identical to box height, or 20px */
+    margin-bottom: 170px;
+    margin-top: 40px;
+    color: #4466FB;
+}
+
+
+.halol {
+    display: flex;
+    justify-content: end;
+}
+
+
+.nos {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    /* identical to box height, or 53px */
+
+    margin-bottom: 50px;
+    color: #1B1C1F;
+}
+
+
+.talok {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 120%;
+    /* or 31px */
+
+
+    color: #1B1C1F;
+
+    opacity: 0.9;
+}
+
+
+.hhhhl {
+    display: flex;
+
+}
+
+
+.jallod {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #333333;
+    margin-left: 100px;
+
+    opacity: 0.7;
+}
+
+
+.mask {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 110%;
+    /* identical to box height, or 20px */
+    margin-bottom: 120px;
+
+
+    color: #4466FB;
+}
+
+
+.ilon {
+    display: flex;
+    justify-content: end;
+}
+
+
+.kontakt {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    /* icon */
+    margin-top: 70px;
+    color: #F9F9F9;
+}
+
+
+.number {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 110%;
+    /* identical to box height, or 18px */
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+}
+
+
+.skachat {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    color: #53ACFF;
+}
+
+
+.divr {
+    margin-bottom: 33px;
+}
+
+
+.korinmas {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    opacity: 0.2;
+}
+
+
+.podez {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+
+    /* icon */
+
+    color: #F9F9F9;
+}
+
+
+.listli {
+    margin-top: 70px;
+}
+
+
+.listitem {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+
+    display: flex;
+    align-items: center;
+
+    /* icon */
+    margin-bottom: 10px;
+    color: #F9F9F9;
+}
+
+.zvanok {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
+
+    display: flex;
+    align-items: center;
+
+    /* icon */
+    margin-top: 70px;
+    color: #F9F9F9;
+}
+
+
+.inp {
+    width: 340px;
+    height: 60px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 155%;
+/* identical to box height, or 25px */
+margin-bottom: 10px;
+
+color: #333333;
+background: #F9F9F9;
+border-radius: 4px;
+opacity: 0.5;
+border: none;
+padding-left: 16px;
+}
+
+
+.btn65{
+    padding: 18px 95px;
+    border: none;
+    background: #386DF4;
+border: 1px solid #386DF4;
+border-radius: 4px;
+font-weight: 700;
+font-size: 18px;
+line-height: 110%;
+/* identical to box height, or 20px */
+
+margin-bottom: 50px;
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {}
